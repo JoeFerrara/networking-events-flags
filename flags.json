@@ -1,0 +1,6 @@
+{
+  "fullCardScanning": {
+    "global": false,
+    "allowListSHA256": []
+  }
+}

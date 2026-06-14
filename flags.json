@@ -2,5 +2,11 @@
   "fullCardScanning": {
     "global": false,
     "allowListSHA256": []
+  },
+  "aiAssist": {
+    "global": false,
+    "allowListSHA256": [
+      "d8b43d473df960a6153847e3a4cdf9fbf86b5b5c756a8a8a58fc48514548f233"
+    ]
   }
 }
